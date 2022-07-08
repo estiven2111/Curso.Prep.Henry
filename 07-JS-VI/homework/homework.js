@@ -83,6 +83,7 @@ function filter(array) {
       array1.push(element);
     }
   });
+  
 return array1;
 
 }
